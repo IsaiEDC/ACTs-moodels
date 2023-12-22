@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T19:10:23.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8sgXnkt8e53LXrouPOx7" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T19:19:30.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WWW4s5xwdcvp4Xa_8i4u" version="22.1.11" type="github">
   <diagram name="Página-1" id="_gbSHQ8x5TelWGNGBJQi">
-    <mxGraphModel dx="2199" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2441" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,12 +81,6 @@
         </mxCell>
         <mxCell id="fnqIAoHRDX1Rki5cf-1k-15" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="230" y="90" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eWbO8krfrckoawIh4puS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnqIAoHRDX1Rki5cf-1k-22" target="vDU0Y8dokldhxelXJ6Cu-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fnqIAoHRDX1Rki5cf-1k-22" value="Categoria" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="390" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eWbO8krfrckoawIh4puS-1" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Código &lt;br&gt;Proveedor&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-200" y="404" width="100" height="46" as="geometry" />
@@ -175,6 +169,12 @@
               <mxPoint x="-50" y="370" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eWbO8krfrckoawIh4puS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eWbO8krfrckoawIh4puS-36" target="vDU0Y8dokldhxelXJ6Cu-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWbO8krfrckoawIh4puS-36" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Codigo de Categoria&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
