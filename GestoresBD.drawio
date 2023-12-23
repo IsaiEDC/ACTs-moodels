@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" modified="2023-12-23T01:41:14.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SvbqTM5HZN_0kSocvjhd" version="22.1.11" type="github">
+  <diagram name="Página-1" id="5dY2nkr8pkFaIul5BPNd">
+    <mxGraphModel dx="2441" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-1" value="GESTORES DE BASES DE DATOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-4" value="MY SQL&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;VENTAJAS&lt;br&gt;*Facil instalacion&lt;br&gt;*Pocos requerimientos de hardware&lt;br&gt;*Rápido al realizar operaciones&lt;br&gt;*Open sourse&lt;br&gt;*Contraseñas encriptadas&lt;br&gt;*Gratis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-20" width="253" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-6" value="DESVENTAJAS&lt;br&gt;*No soporta bases de datos de gran tamaño&lt;br&gt;*Poco intuitivo&lt;br&gt;*No es tan rápido como otros gestores de bases de datos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="833" y="170" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-7" value="CARACTERISTICAS&lt;br&gt;*Es un motor de base de datos que ayuda con el gestionamiento de base de datos y ofrece una gran gama de características para poder gestionar una base de datos de manera eficiente y rápida" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="836.5" y="350" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="190" as="sourcePoint" />
+            <mxPoint x="700" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="250" as="sourcePoint" />
+            <mxPoint x="740" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="310" as="sourcePoint" />
+            <mxPoint x="700" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-12" value="POSTGRESQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-13" value="VENTAJAS&lt;br&gt;*Instalación ilimitada y segura&lt;br&gt;*Escalabilidad para poder tener mayores cantidades de peticione&lt;br&gt;*Extensibilidad&lt;br&gt;*Potencia y robustez&lt;br&gt;*Estándar SQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-420" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-14" value="DESVENTAJAS&lt;br&gt;*Lento al hacer inserciones&lt;br&gt;*Diseñado para ambientes de alto volumen&lt;br&gt;*Puede llegar a no ser intuitivo&lt;br&gt;*No tiene soporte oficial&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="140" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-15" value="CARACTERISICAS&lt;br&gt;*Es un sistema de bases de datos de código abierto, destacado por su gran adaptación y cumplimiento con el SQL, considerado unos de los gestores de bases de datos mas avanzados de la industria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="320" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="160" as="sourcePoint" />
+            <mxPoint x="-70" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="230" as="sourcePoint" />
+            <mxPoint x="-110" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="290" as="sourcePoint" />
+            <mxPoint x="-80" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-19" value="ORACLE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="250" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-21" value="VENTAJAS&lt;br&gt;*Gran protección&lt;br&gt;*Fácil de entender&lt;br&gt;*Adaptación&lt;br&gt;*Tiene gran potencial para poder desempeñar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="600" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-22" value="DESVENTAJAS&lt;br&gt;*Es de pago&lt;br&gt;*Poca informacion sobre como usarse&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-23" value="CARACTERISTICAS&lt;br&gt;*Es una empresa que desarolla bases de datos que almacenan y facilitan el manejo de grandes cantidades de información relacionada entre si" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="180" y="600" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="470" as="sourcePoint" />
+            <mxPoint x="140" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="470" as="sourcePoint" />
+            <mxPoint x="310" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="460" as="sourcePoint" />
+            <mxPoint x="470" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="230" as="sourcePoint" />
+            <mxPoint x="160" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="229.5" as="sourcePoint" />
+            <mxPoint x="460" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="310" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f9EB3z8Z_iPtyGmVsK0m-31" value="&lt;h1 style=&quot;margin: 10px 0px; font-weight: normal; line-height: 40px; color: rgb(255, 102, 0); text-rendering: optimizelegibility; font-size: 28px; text-align: left; background-color: rgb(255, 255, 255); font-family: &amp;quot;Source Sans 3 Bold 700&amp;quot;, sans-serif !important;&quot;&gt;ACT 5. Gestores de Base de Datos&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="-200" width="750" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
